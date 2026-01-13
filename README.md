@@ -19,8 +19,8 @@ repositories {
 }
 
 dependencies {  
-    implementation 'com.github.joon6093.jpa-nplus1-detector:detector-core:3.2.1'
-    testImplementation 'com.github.joon6093.jpa-nplus1-detector:detector-test:3.2.1'
+    implementation 'com.github.jeyongsong.jpa-nplus1-detector:detector-core:3.2.1'
+    testImplementation 'com.github.jeyongsong.jpa-nplus1-detector:detector-test:3.2.1'
 }
 ```
 
@@ -35,13 +35,13 @@ dependencies {
 </repositories>
 
 <dependency>
-    <groupId>com.github.joon6093.jpa-nplus1-detector</groupId>
+    <groupId>com.github.jeyongsong.jpa-nplus1-detector</groupId>
     <artifactId>detector-core</artifactId>
     <version>3.2.1</version>
 </dependency>
 
 <dependency>
-    <groupId>com.github.joon6093.jpa-nplus1-detector</groupId>
+    <groupId>com.github.jeyongsong.jpa-nplus1-detector</groupId>
     <artifactId>detector-test</artifactId>
     <version>3.2.1</version>
     <scope>test</scope>
@@ -144,24 +144,24 @@ Suppressed: io.jeyong.nplus1detector.test.exception.NPlusOneQueryException: N+1 
 - If you found this project helpful or interesting, please consider giving it a star on GitHub! ⭐
 
 ## 🗓️ Release
-- [Version 1.0.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.0.0) - Released on 2024/08/19
-- [Version 1.1.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.1.0) - Released on 2024/08/21
-- [Version 1.1.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.1.1) - Released on 2024/08/24
-- [Version 1.1.2](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.1.2) - Released on 2024/08/27
-- [Version 1.2.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.2.0) - Released on 2024/08/29
-- [Version 1.3.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.3.0) - Released on 2024/09/04
-- [Version 1.3.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.3.1) - Released on 2024/09/07
-- [Version 1.3.2](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.3.2) - Released on 2024/09/16
-- [Version 1.4.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/1.4.0) - Released on 2024/09/17
-- [Version 2.0.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.0.0) - Released on 2024/09/19
-- [Version 2.0.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.0.1) - Released on 2024/09/19
-- [Version 2.0.2](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.0.2) - Released on 2024/09/20
-- [Version 2.1.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.1.0) - Released on 2024/09/24
-- [Version 2.2.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.2.0) - Released on 2024/09/27
-- [Version 2.3.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.3.0) - Released on 2025/04/01
-- [Version 2.3.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/2.3.1) - Released on 2025/06/24
-- [Version 3.0.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/3.0.0) - Released on 2025/07/15
-- [Version 3.0.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/3.0.1) - Released on 2025/08/29
-- [Version 3.1.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/3.1.0) - Released on 2025/09/01
-- [Version 3.2.0](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/3.2.0) - Released on 2025/09/25
-- [Version 3.2.1](https://github.com/joon6093/jpa-nplus1-detector/releases/tag/3.2.1) - Released on 2025/12/07
+- [Version 1.0.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.0.0) - Released on 2024/08/19
+- [Version 1.1.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.1.0) - Released on 2024/08/21
+- [Version 1.1.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.1.1) - Released on 2024/08/24
+- [Version 1.1.2](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.1.2) - Released on 2024/08/27
+- [Version 1.2.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.2.0) - Released on 2024/08/29
+- [Version 1.3.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.3.0) - Released on 2024/09/04
+- [Version 1.3.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.3.1) - Released on 2024/09/07
+- [Version 1.3.2](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.3.2) - Released on 2024/09/16
+- [Version 1.4.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/1.4.0) - Released on 2024/09/17
+- [Version 2.0.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.0.0) - Released on 2024/09/19
+- [Version 2.0.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.0.1) - Released on 2024/09/19
+- [Version 2.0.2](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.0.2) - Released on 2024/09/20
+- [Version 2.1.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.1.0) - Released on 2024/09/24
+- [Version 2.2.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.2.0) - Released on 2024/09/27
+- [Version 2.3.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.3.0) - Released on 2025/04/01
+- [Version 2.3.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/2.3.1) - Released on 2025/06/24
+- [Version 3.0.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/3.0.0) - Released on 2025/07/15
+- [Version 3.0.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/3.0.1) - Released on 2025/08/29
+- [Version 3.1.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/3.1.0) - Released on 2025/09/01
+- [Version 3.2.0](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/3.2.0) - Released on 2025/09/25
+- [Version 3.2.1](https://github.com/jeyongsong/jpa-nplus1-detector/releases/tag/3.2.1) - Released on 2025/12/07
